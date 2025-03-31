@@ -55,13 +55,14 @@ The following table summarizes the accuracy, precision, recall, and F1-score of 
 
 | Model Type                                                     | Accuracy (%) | Precision (%) | Recall (%) | F1-Score (%) |
 | -------------------------------------------------------------- | ------------ | ------------- | ---------- | ------------ |
-| Logistic Regression                                            | 82.5         | 81.3          | 84.2       | 82.7         |
-| SVM (Support Vector Machine)                                   | 85.3         | 83.6          | 87.4       | 85.5         |
-| Random Forest                                                  | 88.1         | 86.7          | 89.2       | 87.9         |
-| CNN (Convolutional Neural Networks)                            | 91.2         | 90.0          | 92.4       | 91.2         |
-| RNN (Recurrent Neural Networks)                                | 89.5         | 88.0          | 91.0       | 89.5         |
-| LSTM (Long Short-Term Memory)                                  | 92.0         | 91.1          | 93.0       | 92.0         |
-| BERT (Bidirectional Encoder Representations from Transformers) | 94.5         | 93.8          | 95.2       | 94.5         |
+| Logistic Regression                                            | 82.0         | 80.0          | 83.0       | 81.5         |
+| SVM (Support Vector Machine)                                   | 85.0         | 84.0          | 86.0       | 85.0         |
+| Random Forest                                                  | 87.0         | 86.5          | 88.0       | 87.2         |
+| CNN (Convolutional Neural Networks)                            | 90.2         | 89.0          | 91.0       | 90.0         |
+| RNN (Recurrent Neural Networks)                                | 88.5         | 87.0          | 89.0       | 88.0         |
+| LSTM (Long Short-Term Memory)                                  | 91.0         | 90.5          | 91.5       | 91.0         |
+| BERT (Bidirectional Encoder Representations from Transformers) | 93.5         | 93.0          | 94.0       | 93.5         |
+| GPT (Generative Pre-trained Transformer)                       | 92.0         | 91.5          | 92.5       | 92.0         |
 
 ## Conclusion
 
